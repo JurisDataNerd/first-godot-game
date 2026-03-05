@@ -39,7 +39,7 @@ Special thanks to **Brackeys** for providing free assets for game developers.
 2. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/JurisDataNerd/first-godot-game.git
 ```
 
 3. Open **Godot**
